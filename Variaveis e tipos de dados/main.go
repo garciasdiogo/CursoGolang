@@ -13,3 +13,7 @@ func main() {
 	fmt.Println("Valor de PI:", pi)
 
 }
+
+//var é usado para declarar variáveis explicitamente.
+//:= é usado para declarar e inicializar variáveis com inferência de tipo.
+//string e int são exemplos de tipos de dados em Go.

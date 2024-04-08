@@ -28,3 +28,7 @@ func main() {
 		fmt.Println("Dia inválido")
 	}
 }
+
+//if é usado para fazer verificações condicionais.
+//for é usado para loops.
+//switch é uma forma concisa de escrever uma série de instruções if-else.
